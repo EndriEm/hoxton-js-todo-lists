@@ -1443,6 +1443,3 @@ const users = [
     }
   ]
   
-  window.users = users
-  window.todos = todos
-  
